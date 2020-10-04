@@ -1,1 +1,1 @@
-# Python-Lab
+# Python-Lab is a repository of codes during my learning Python and GIT.
