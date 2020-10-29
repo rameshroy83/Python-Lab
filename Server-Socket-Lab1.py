@@ -22,6 +22,9 @@ serversocket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 #serversocket.bind((host, port))
 serversocket.bind(ADDR)
 
+serversocket.bind(ADDR)
+
+#We are defining different functions for Server, Client handling.
 #Now we will set the server listern, also we can define number of connections to accept.
 #serversocket.listen(3)
 
